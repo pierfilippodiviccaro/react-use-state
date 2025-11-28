@@ -1,1 +1,8 @@
-
+.container{
+  height: 600px;
+  padding: 20px
+}
+.flex{
+  margin-left: 20px;
+  margin-top: 10px;
+}

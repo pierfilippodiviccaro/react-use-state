@@ -1,13 +1,9 @@
-import { useState } from 'react'
 
-
+import Principal from './Principal'
 function App() {
- 
-
   return (
-  <div className="container">
-    <h1>Learn web development</h1>
-  </div>
+    <Principal />
+
   )
 }
 
